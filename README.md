@@ -58,3 +58,12 @@ Each model is evaluated using:
 The **best-performing model** is selected based on these metrics and reported in the final section of the notebook.
 
 ---
+
+## 🚀 Getting Started
+
+### 🔧 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mayonaisey/patient-classification-ML.git
+   cd patient-classification-ML
